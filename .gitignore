@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+# data files (MovieLens)
+*.dat
+*.zip
+*.csv
